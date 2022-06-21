@@ -1,0 +1,19 @@
+{
+  "Azure": {
+    "TenantID": "",
+    "SubscriptionID": ""
+  },
+  "VNet": {
+    "ResourceGroupName": "",
+    "Name": ""
+  },
+  "PIP": {
+    "ResourceGroupName": "",
+    "Name": ""
+  },
+  "Bastion": {
+    "ResourceGroupName": "",
+    "Name": "",
+    "SKU": ""
+  }
+}
